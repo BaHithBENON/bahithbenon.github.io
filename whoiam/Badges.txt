@@ -1,0 +1,19 @@
+Python Essentials 1
+
+	code <> : <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="cff9c9c9-683b-4414-8e58-aaeedcba33cf" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+	public url : https://www.credly.com/badges/cff9c9c9-683b-4414-8e58-aaeedcba33cf/public_url
+
+
+Unity Junior Programmer
+
+	code <> : <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="43adc659-77e4-48c0-a9d1-256dc99528f8" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+
+	public url : https://www.credly.com/badges/43adc659-77e4-48c0-a9d1-256dc99528f8/public_url
+
+
+Unity Essentials Pathway 
+
+	code <> : <div data-iframe-width="150" data-iframe-height="270" data-share-badge-id="d1b243a8-b1ef-486a-868d-3abd47cce8d9" data-share-badge-host="https://www.credly.com"></div><script type="text/javascript" async src="//cdn.credly.com/assets/utilities/embed.js"></script>
+	
+	public url : https://www.credly.com/badges/d1b243a8-b1ef-486a-868d-3abd47cce8d9/public_url
