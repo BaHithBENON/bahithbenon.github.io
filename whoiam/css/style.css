@@ -1300,3 +1300,8 @@ input[type="text"] {
 }
 
 /*# sourceMappingURL=style.css.map */
+
+
+.text-light {
+  color: white !important;
+}
